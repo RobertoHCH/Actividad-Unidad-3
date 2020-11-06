@@ -1,0 +1,125 @@
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.AssemblyInfoInputs.cache
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.AssemblyInfo.cs
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.csproj.CoreCompileInputs.cache
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.RazorAssemblyInfo.cache
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.RazorAssemblyInfo.cs
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\ZooPlanet.exe
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.TagHelpers.input.cache
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.TagHelpers.output.cache
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.RazorCoreGenerate.cache
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Agregar.cshtml.g.cs
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Editar.cshtml.g.cs
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Eliminar.cshtml.g.cs
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Imagen.cshtml.g.cs
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Index.cshtml.g.cs
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Clase.cshtml.g.cs
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.RazorTargetAssemblyInfo.cache
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.RazorTargetAssemblyInfo.cs
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\staticwebassets\ZooPlanet.StaticWebAssets.Manifest.cache
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\staticwebassets\ZooPlanet.StaticWebAssets.xml
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.csproj.CopyComplete
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\ZooPlanet.deps.json
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\ZooPlanet.runtimeconfig.json
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\ZooPlanet.runtimeconfig.dev.json
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\ZooPlanet.dll
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\ZooPlanet.pdb
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\ZooPlanet.Views.dll
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\ZooPlanet.Views.pdb
+D:\Desktop\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.Views.pdb
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.dll
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.pdb
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.genruntimeconfig.cache
+D:\Desktop\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.csprojAssemblyReference.cache
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\appsettings.json
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\ZooPlanet.exe
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\ZooPlanet.deps.json
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\ZooPlanet.runtimeconfig.json
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\ZooPlanet.runtimeconfig.dev.json
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\ZooPlanet.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\ZooPlanet.pdb
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\ZooPlanet.Views.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\ZooPlanet.Views.pdb
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.csprojAssemblyReference.cache
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.AssemblyInfoInputs.cache
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.AssemblyInfo.cs
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.csproj.CoreCompileInputs.cache
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.MvcApplicationPartsAssemblyInfo.cache
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.RazorAssemblyInfo.cache
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.RazorAssemblyInfo.cs
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.TagHelpers.input.cache
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.TagHelpers.output.cache
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.RazorCoreGenerate.cache
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Clase.cshtml.g.cs
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.RazorTargetAssemblyInfo.cache
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.RazorTargetAssemblyInfo.cs
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.Views.pdb
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.csproj.CopyComplete
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\staticwebassets\ZooPlanet.StaticWebAssets.Manifest.cache
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\staticwebassets\ZooPlanet.StaticWebAssets.xml
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.dll
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.pdb
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\ZooPlanet.genruntimeconfig.cache
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Agregar.cshtml.g.cs
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Editar.cshtml.g.cs
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Eliminar.cshtml.g.cs
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Imagen.cshtml.g.cs
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+A:\7mo Semestre\Programación Web\ZooPlanet\ZooPlanet\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
