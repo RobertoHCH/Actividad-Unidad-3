@@ -1,0 +1,39 @@
+﻿@model IEnumerable<RazasPerros.Models.Razas>
+@{ Layout = "_Layout"; }
+
+<h1 class="admin">Administrar Razas</h1>
+
+<a class="admin">Lista de las razas</a>
+
+<table>
+    <caption>
+        <a href="~/Admin/Home/Agregar"> Agregar Raza</a>
+    </caption>
+    <tbody>
+        @foreach (var item in Model)
+        {
+<tr>
+
+    <td>@item.Nombre</td>
+    <td class="modificaciones">
+
+
+        <a href="~/Admin/Home/Editar/@item.Id">Editar</a>
+
+        <a href="javascript:eliminar(@item.Id)" id="b"><i class="fa fa-remove"></i> Eliminar</a>
+    </td>
+</tr>}
+
+    </tbody>
+</table>
+<form method="post" action="~/Admin/Home/Eliminar">
+    <input type="hidden" name="Id" id="razaid" />
+</form>
+
+<script>
+    function eliminar(id) {
+        if (confirm('¿Esta seguro de eliminar la raza seleccionada?')) {
+            document.getElementById("razaid").value = id;
+            document.querySelector("form").submit();
+        }
+    }</script>
